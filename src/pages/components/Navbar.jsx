@@ -27,13 +27,10 @@ const Navbar = () => {
           </li>
         </ul>
       </div>
-      <div className="flex items-center">
-        <div>
-          <img src={Union} className="bg-black p-2 rounded-3xl" />
-        </div>
-        <div>
-          <img src={Vector} className="bg-black ml-3 p-2 rounded-3xl" />
-        </div>
+      <div>
+        <button className="bg-secondary text-white py-1 px-3 rounded-lg sm:text-[18px] md:text-[21px]">
+          <p>Login</p>
+        </button>
       </div>
     </div>
   )

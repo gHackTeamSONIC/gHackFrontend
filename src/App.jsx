@@ -1,12 +1,10 @@
 import "./App.css"
-import Navbar from "./pages/Navbar"
-import Section1 from "./pages/Section1"
+import Landingpage from "./pages/Landingpage"
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <Section1 />
+      <Landingpage />
     </div>
   )
 }

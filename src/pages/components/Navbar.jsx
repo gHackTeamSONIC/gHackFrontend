@@ -1,8 +1,8 @@
 import React from "react"
-import logo from "../assets/logo.png?react"
-import Union from "../assets/Union.png?react"
-import Vector from "../assets/Vector.png?react"
-import arrowright from "../assets/arrowright.png?react"
+import logo from "../../assets/logo.png?react"
+import Union from "../../assets/Union.png?react"
+import Vector from "../../assets/Vector.png?react"
+import arrowright from "../../assets/arrowright.png?react"
 
 const Navbar = () => {
   return (

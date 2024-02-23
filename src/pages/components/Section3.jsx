@@ -4,7 +4,7 @@ import close from "../../assets/close.png?react"
 
 const Section3 = () => {
   return (
-    <div className="flex flex-col sm:flex-row mx-4 md:mx-16 ss:mx-8 items-center mt-20">
+    <div className="flex flex-col sm:flex-row mx-4 md:mx-16 ss:mx-8 items-center mt-20 lg:mt-28">
       <div className="flex flex-col ">
         <div className="font-bold text-[50px] lg:text-[70px] max-w-[500px] sm:max-w-[1000px] lg:leading-[90px] leading-[70px] mt-4">
           <p>ASK EXPERTS IN FINANCE</p>
@@ -17,7 +17,7 @@ const Section3 = () => {
           </p>
         </div>
         <div>
-          <Btn text={"GET STARTED"} />
+          <Btn text={"HIRE NOW"} />
         </div>
       </div>
       <div>

@@ -22,7 +22,7 @@ const Section1 = () => {
           </p>
         </div>
         <div>
-          <Btn text={"ORDER NOW"} />
+          <Btn text={"JOIN US"} />
         </div>
       </div>
       <div>
